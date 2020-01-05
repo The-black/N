@@ -1,0 +1,5 @@
+APK_NAME='brawl-stars'
+APK_AUTHOR='supercell'
+FEED_SOURCE='apkmirror'
+APK_VERSION="24.150"
+WATCHER_EMAIL='nadav@peer.org.il'
