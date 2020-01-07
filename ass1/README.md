@@ -46,6 +46,8 @@ The included [encrypt.sh](encrypt.sh) performs full disk encryption using Virtua
 There are procedures out there to encrypt an existing Linux machine, but they require an additional temporary disk and are fairly complicated to automate.
 The "Proper" approach would be to install a new VM from the O/S's ISO image(s) and choose to encrypt the disk during the installation (or in Kickstart..). Due to time constraints I did not perform this (and as a result, there's also no export of an encrypted VM). If this is a significant part of your evaluation, please let me know and I will complete this part as well.
 
+**Update**: Encrypted VM created an exported as described above, A link to it was sent via E-Mail
+
 ### System and kernel components
 As I have used a minimal box I would expect it to be.. minimal. I'm not an expert at hardening Linux beyond the basics of installing only what one needs. In addition, I have verified that the VM only listens to ssh on the network.
 
